@@ -1,24 +1,24 @@
-# Beat Labs Builds (for Pico)
+# Groovy Labs Builds (PICO)
 
-Go to [Releases](https://github.com/marek-stoj/Beat-Labs-Builds-Pico/releases) to download the game directly (APK).
+Go to [Releases](https://github.com/marek-stoj/Groovy-Labs-Builds-PICO/releases) to download the game directly (APK).
 
-Or [install the game from SideQuest](https://sidequestvr.com/app/12483/beat-labs-for-pico).
+Or [install the game from SideQuest](https://sidequestvr.com/app/12483/groovy-labs-for-pico).
 
-_NOTE: Builds for Oculus Quest are in a different repository: [Beat-Labs-Builds](https://github.com/marek-stoj/Beat-Labs-Builds)._
+_NOTE: Builds for Meta Quest are in a different repository: [Groovy-Labs-Builds](https://github.com/marek-stoj/Groovy-Labs-Builds)._ \
+_NOTE: Builds for PCVR are in a different repository: [Groovy-Labs-Builds-PCVR](https://github.com/marek-stoj/Groovy-Labs-Builds-PCVR)._
 
-## What is Beat Labs?
+## What is Groovy Labs?
 
-Beat Labs is a free and open sandbox for fiddling with different gameplay mechanics and ideas for rhythm games in VR. It’s powered by BeatSaver - a database of over 70 000 community-made song beatmaps for Beat Saber.
+Groovy Labs is an open and cross-platform sandbox for rhythm games in Virtual and Mixed Reality (VR/MR).
 
-It currently focuses on the mechanics of Beat Saber but eventually there will be various modifications to the way the game feels and plays.
-
-We’re doing it in the open so [come and join the discussion on our Discord](https://dsc.gg/beatlabs?ref=gh)!
+I'm doing it in the open so [come and join the discussion on our Discord](https://dsc.gg/groovylabs?ref=gh)!
 
 ## Links
 
-- [Website](https://www.beatlabs.dev/)
-- [SideQuest](https://sidequestvr.com/app/12483/beat-labs-for-pico)
-- [Facebook](https://www.facebook.com/BeatLabsGame)
-- [Discord](https://dsc.gg/beatlabs?ref=gh)
-- [itch.io](https://marek-stoj.itch.io/beat-labs)
-- [YouTube](https://www.youtube.com/@Beat-Labs)
+- [Website](https://www.groovylabsgame.com/)
+- [SideQuest](https://sidequestvr.com/app/12483/groovy-labs-for-pico)
+- [Facebook](https://www.facebook.com/GroovyLabsGame)
+- [Discord](https://dsc.gg/groovylabs?ref=gh)
+- [itch.io](https://marek-stoj.itch.io/groovy-labs)
+- [Odysee](https://odysee.com/@BeatLabs:f)
+- [YouTube](https://www.youtube.com/@groovylabs)
